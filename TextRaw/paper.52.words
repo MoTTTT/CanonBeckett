@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>OCR output</title>
+</head>
+<body>
+<p><span class="ocr_line" title="bbox 155 143 201 179"><span class="ocrx_word" title="bbox 155 143 201 179; x_wconf 95">98</span></span></p>
+<p><span class="ocr_line" title="bbox 154 198 767 236"><span class="ocrx_word" title="bbox 154 202 305 232; x_wconf 96">Williams</span> <span class="ocrx_word" title="bbox 325 202 353 236; x_wconf 92">5,</span> <span class="ocrx_word" title="bbox 380 201 426 236; x_wconf 90">14,</span> <span class="ocrx_word" title="bbox 437 201 487 235; x_wconf 90">40,</span> <span class="ocrx_word" title="bbox 510 200 559 235; x_wconf 96">46,</span> <span class="ocrx_word" title="bbox 583 199 632 234; x_wconf 95">56,</span> <span class="ocrx_word" title="bbox 656 199 705 234; x_wconf 96">57,</span> <span class="ocrx_word" title="bbox 729 198 767 228; x_wconf 96">85</span></span></p>
+<p><span class="ocr_line" title="bbox 155 251 360 289"><span class="ocrx_word" title="bbox 155 252 300 289; x_wconf 89">Winburg</span> <span class="ocrx_word" title="bbox 320 251 360 281; x_wconf 96">69</span></span></p>
+<p><span class="ocr_line" title="bbox 155 301 409 332"><span class="ocrx_word" title="bbox 155 301 348 332; x_wconf 95">Wodehouse</span> <span class="ocrx_word" title="bbox 371 301 409 330; x_wconf 95">23</span></span></p>
+<p><span class="ocr_line" title="bbox 155 351 386 382"><span class="ocrx_word" title="bbox 155 352 326 382; x_wconf 95">Woodman</span> <span class="ocrx_word" title="bbox 347 351 386 381; x_wconf 95">68</span></span></p>
+<p><span class="ocr_line" title="bbox 156 427 191 462"><span class="ocrx_word" title="bbox 156 427 191 462; x_wconf 91">Y</span></span></p>
+<p><span class="ocr_line" title="bbox 157 509 328 547"><span class="ocrx_word" title="bbox 157 510 265 547; x_wconf 95">Young</span> <span class="ocrx_word" title="bbox 289 509 328 539; x_wconf 95">53</span></span></p>
+<p><span class="ocr_line" title="bbox 159 584 190 619"><span class="ocrx_word" title="bbox 159 584 190 619; x_wconf 80">Z</span></span></p>
+<p><span class="ocr_line" title="bbox 158 663 727 704"><span class="ocrx_word" title="bbox 158 666 292 704; x_wconf 90">Zuuring</span> <span class="ocrx_word" title="bbox 304 666 405 695; x_wconf 95">Kranz</span> <span class="ocrx_word" title="bbox 426 665 477 700; x_wconf 95">42,</span> <span class="ocrx_word" title="bbox 499 665 549 699; x_wconf 96">43,</span> <span class="ocrx_word" title="bbox 573 663 674 698; x_wconf 96">50,59,</span> <span class="ocrx_word" title="bbox 687 663 727 693; x_wconf 96">60</span></span></p>
+<p><span class="ocr_line" title="bbox 159 716 324 746"><span class="ocrx_word" title="bbox 159 716 264 746; x_wconf 92">Zwide</span> <span class="ocrx_word" title="bbox 286 716 324 746; x_wconf 96">35</span></span></p>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>OCR output</title>
+</head>
+<body>
+<p><span class="ocr_line" title="bbox 20 750 1346 905"><span class="ocrx_word" title="bbox 20 750 594 905; x_wconf 92">CANON</span> <span class="ocrx_word" title="bbox 614 753 1346 900; x_wconf 90">BECKETT</span></span></p>
+<p><span class="ocr_line" title="bbox 603 1054 734 1121"><span class="ocrx_word" title="bbox 603 1054 734 1121; x_wconf 66">AT</span></span></p>
+<p><span class="ocr_line" title="bbox 86 1275 1274 1419"><span class="ocrx_word" title="bbox 86 1275 1274 1419; x_wconf 90">MODDERPOORT</span></span></p>
+<p><span class="ocr_line" title="bbox 490 1469 834 1523"><span class="ocrx_word" title="bbox 490 1469 634 1523; x_wconf 93">1867</span> <span class="ocrx_word" title="bbox 652 1499 674 1507; x_wconf 89">-</span> <span class="ocrx_word" title="bbox 697 1471 834 1521; x_wconf 96">1902</span></span></p>
+<p><span class="ocr_line" title="bbox 872 1627 957 1705"><span class="ocrx_word" title="bbox 872 1627 957 1705; x_wconf 96">by</span></span></p>
+<p><span class="ocr_line" title="bbox 595 1731 1234 1810"><span class="ocrx_word" title="bbox 595 1733 872 1793; x_wconf 93">Andrew</span> <span class="ocrx_word" title="bbox 898 1733 976 1792; x_wconf 93">H.</span> <span class="ocrx_word" title="bbox 1006 1731 1234 1810; x_wconf 95">Colley</span></span></p>
+</body>
+</html>

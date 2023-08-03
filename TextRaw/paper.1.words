@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>OCR output</title>
+</head>
+<body>
+<p><span class="ocr_line" title="bbox 386 53 970 209"><span class="ocrx_word" title="bbox 386 53 970 209; x_wconf 88">CANON</span></span></p>
+<p><span class="ocr_line" title="bbox 304 271 1052 418"><span class="ocrx_word" title="bbox 304 271 1052 418; x_wconf 95">BECKETT</span></span></p>
+<p><span class="ocr_line" title="bbox 599 571 732 639"><span class="ocrx_word" title="bbox 599 571 732 639; x_wconf 94">AT</span></span></p>
+<p><span class="ocr_line" title="bbox 406 1905 926 1984"><span class="ocrx_word" title="bbox 406 1908 680 1968; x_wconf 96">Andrew</span> <span class="ocrx_word" title="bbox 701 1905 926 1984; x_wconf 96">Colley</span></span></p>
+</body>
+</html>
