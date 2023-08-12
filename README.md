@@ -1,4 +1,4 @@
-# CanonBeckett
+# CanonBeckett 
 
 Canon Becket at Modderpoort by Andrew Colley
 
@@ -13,21 +13,21 @@ Canon Becket at Modderpoort by Andrew Colley
 
 ### Rescans
 
-- [ ] Missing paragraph Page 22
-- [ ] Rescan 23
-- [ ] Rescan 26
-- [ ] Rescan 27
-- [ ] Page 30 missing line 3
-- [ ] Rescan 31
-- [ ] Rescan 32
-- [ ] Rescan 33
-- [ ] Missing paragraph Page 38
-- [ ] Rescan 45
-- [ ] Rescan 48
-- [ ] Rescan 49
-- [ ] Rescan 50
-- [ ] Rescan 51
-- [ ] Missing paragraph Page 52
+- [X] Missing paragraph Page 22
+- [X] Rescan 23
+- [X] Rescan 26
+- [X] Rescan 27
+- [X] Page 30 missing line 3
+- [X] Rescan 31
+- [X] Rescan 32
+- [X] Rescan 33
+- [X] Missing paragraph Page 38
+- [X] Rescan 45
+- [X] Rescan 48
+- [X] Rescan 49
+- [X] Rescan 50
+- [X] Rescan 51
+- [X] Missing paragraph Page 52
 - [ ] Rescan 55
 - [ ] Missing paragraph Page 59
 - [ ] Rescan 65
@@ -55,4 +55,5 @@ Canon Becket at Modderpoort by Andrew Colley
 - [ ] {hay
 - [ ] Marrlsmith
 - [ ] snthusiastic
+- [ ] "tha " with "the "
 
