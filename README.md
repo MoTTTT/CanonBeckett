@@ -6,10 +6,12 @@ Canon Becket at Modderpoort by Andrew Colley
 
 - [X] Scan for text
 - [X] OCR
-- [ ] Aggregate text, edit for pages and paragraphs
+- [X] Aggregate text, edit for pages and paragraphs
+- [X] Common OCR substitutions
+- [X] Aggregate to chapters
+- [ ] Placeholders for artefacts
 - [ ] Scan for images
 - [ ] First pass text editor check
-- [ ] 
 
 ### Rescans
 
@@ -28,12 +30,12 @@ Canon Becket at Modderpoort by Andrew Colley
 - [X] Rescan 50
 - [X] Rescan 51
 - [X] Missing paragraph Page 52
-- [ ] Rescan 55
-- [ ] Missing paragraph Page 59
-- [ ] Rescan 65
-- [ ] Rescan 66
-- [ ] Rescan 67
-- [ ] Missing paragraph Page 79
+- [X] Rescan 55
+- [X] Missing paragraph Page 59
+- [X] Rescan 65
+- [X] Rescan 66
+- [X] Rescan 67
+- [X] Missing paragraph Page 79
 
 ### Formatting
 
@@ -47,13 +49,12 @@ Canon Becket at Modderpoort by Andrew Colley
 - [X] Aggregation
 - [X] Pages, original
 - [X] Paragraphs
-- [ ] Scan corrections
-- [ ] Substitute: "|" with "I"
-- [ ] Substitute: "al " "at "
-- [ ] Substiture" "Iwo" with "two"
-- [ ] {he
-- [ ] {hay
-- [ ] Marrlsmith
-- [ ] snthusiastic
-- [ ] "tha " with "the "
-
+- [X] Scan corrections
+- [X] Substitute: "|" with "I"
+- [X] Substitute: "al " "at "
+- [X] Substiture" "Iwo" with "two"
+- [X] {he
+- [X] {hay
+- [X] Marrlsmith
+- [X] snthusiastic
+- [X] "tha " with "the "
